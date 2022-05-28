@@ -1,7 +1,3 @@
 # Hi I'm Tibz ! :v:
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tibo-pdn&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tibo-pdn&count_private=true)
-
+![Tibz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tibo-pdn&theme=dark&show_icons=true)
