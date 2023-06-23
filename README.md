@@ -1,6 +1,6 @@
 # Hi I'm Tibz ! ✌️
 
-I am a student at Epitech Paris 🎓 and Treasorer at Junior Conseil Taker 💸
+I am a student at Epitech Paris 🎓 and Developer @starton-io 💸
 
 I love :
 - Blockchain anc Web3 technologies
